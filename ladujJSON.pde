@@ -1,5 +1,6 @@
 // JSON EXPLANATION
 // Wiktoria
+//coś piszę
 
 JSONObject geoData;
 JSONArray features;
