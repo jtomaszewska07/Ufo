@@ -1,5 +1,6 @@
 // JSON EXPLANATION
 // Wiktoria
+// Komentarz 2
 
 JSONObject geoData;
 JSONArray features;
